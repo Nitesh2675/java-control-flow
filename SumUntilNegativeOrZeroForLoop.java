@@ -15,7 +15,7 @@ public class SumUntilNegativeOrZeroForLoop {
             
             total += number;
         }
-        scanner.close();
+
 
         System.out.println("The total sum is: " + total);
     }
